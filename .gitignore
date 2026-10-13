@@ -1,0 +1,5 @@
+work/stacks/*.json
+logs/*.jsonl
+memory/knowledge/*.json*
+characters/index.json
+__pycache__/
